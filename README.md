@@ -3,6 +3,15 @@ Auto Scanning Tool is a menu driven program made with Bash Scripting. It is used
 domain name (like google.com). It includes different types of scanning options. This tool is based on nmap scans. People feels hectic to remember commands, so I have made it
 to release their burden. I will be thankful if anybody contributes in this project.
 
+***NOTE:- RUN THIS TOOL WITH ROOT PRIVILEDGES***
+
+**How to install git**
+```apt-get install git```
+
+**How to install figlet**
+```apt-get install figlet```
 
 **How to setup Auto_Scanning_Tool:-**
-```Step 1:-``` 
+```# git clone https://github.com/Sandip-Ash/Auto_Scanning_Tool```
+```# cd Auto_Scanning_Tool```
+```# bash scanning.sh```
