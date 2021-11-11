@@ -4,14 +4,17 @@ domain name (like google.com). It includes different types of scanning options. 
 to release their burden. I will be thankful if anybody contributes in this project.
 
 ***NOTE:- RUN THIS TOOL WITH ROOT PRIVILEDGES***
-
-**How to install git**
+<br>
+<br>
+**How to install git** <br>
 ```apt-get install git```
-
-**How to install figlet**
+<br>
+<br>
+**How to install figlet** <br>
 ```apt-get install figlet```
-
-**How to setup Auto_Scanning_Tool:-**
-```# git clone https://github.com/Sandip-Ash/Auto_Scanning_Tool```
-```# cd Auto_Scanning_Tool```
-```# bash scanning.sh```
+<br>
+<br>
+**How to setup Auto_Scanning_Tool:-**  <br>
+```# git clone https://github.com/Sandip-Ash/Auto_Scanning_Tool``` <br>
+```# cd Auto_Scanning_Tool```  <br>
+```# bash scanning.sh```  <br>
