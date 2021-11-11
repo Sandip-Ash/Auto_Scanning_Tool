@@ -15,6 +15,9 @@ to release their burden. I will be thankful if anybody contributes in this proje
 <br>
 <br>
 **How to setup Auto_Scanning_Tool:-**  <br>
-```# git clone https://github.com/Sandip-Ash/Auto_Scanning_Tool <br>
-# cd Auto_Scanning_Tool <br>
-# bash scanning.sh```  <br>
+```# git clone https://github.com/Sandip-Ash/Auto_Scanning_Tool``` 
+<br>
+```# cd Auto_Scanning_Tool``` 
+<br>
+```# bash scanning.sh```  
+<br>
