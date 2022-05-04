@@ -10,10 +10,6 @@ to release their burden. I will be thankful if anybody contributes in this proje
 ```# apt-get install git```
 <br>
 <br>
-**How to install figlet** <br>
-```# apt-get install figlet```
-<br>
-<br>
 **How to setup Auto_Scanning_Tool:-**  <br>
 ```# git clone https://github.com/Sandip-Ash/Auto_Scanning_Tool``` 
 <br>
