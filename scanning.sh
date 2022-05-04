@@ -1,6 +1,6 @@
 #!/bin/bash
 # Update: 04-05-2022
-# Description: Scanning
+# Description: Auto_Scanning_Tool
 
 
 # Color variables 
